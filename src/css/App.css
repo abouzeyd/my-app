@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+/* Partir pour les Nav */
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(50, 65, 65);
+}
+.nav_Link {
+  display: flex;
+  width: 500px;
+  align-items: center;
+  margin-bottom: 0%;
+}
+
+.nav_text {
+  display: flex;
+  width: 150px;
+  margin-left: 2em;
+  text-decoration: none;
+  list-style: none;
+  font-size: 19px;
+}
+
+.nav_logo {
+  width: 100px;
+}
+
+.nav_sign {
+  display: flex;
+  margin-left: 1em;
+  font-weight: bold;
+  font-size: 18px;
+  width: 15em;
+  justify-content: center;
+}
+
+/* partir pour les Views */
+
+.Views_li {
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+}
+.Views_h3 {
+  background-color: rgb(75, 201, 201);
+  width: 12em;
+  line-height: 15px;
+  /* height: 15px; */
+  padding: 1em;
+  border-radius: 10px;
+}
+.Views_ul {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+.image {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}

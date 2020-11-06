@@ -1,0 +1,41 @@
+.form-inputs p {
+  color: red;
+  text-align: center;
+}
+.form-content-right {
+  background-color: blueviolet;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+  border-radius: 8px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+
+  /*  */
+}
+.form-input {
+  margin: 1em;
+  padding: 5px;
+  width: 27em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.form-input-btn {
+  margin-left: auto;
+  margin-right: auto;
+  width: 7em;
+  height: 2em;
+  border-radius: 5;
+}
+.form-input-account {
+  padding-bottom: 10px;
+  text-align: center;
+}
+.form-label {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 0%;
+}
